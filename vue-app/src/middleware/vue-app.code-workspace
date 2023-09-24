@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../contoh/example"
+		}
+	],
+	"settings": {
+		"nuxt.isNuxtApp": false
+	}
+}
